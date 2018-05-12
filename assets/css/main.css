@@ -2461,6 +2461,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
+		-webkit-text-stroke: 1px black;
 		background-image: url("../../images/header.jpg");
 		color: #d1f1e9;
 		height: 100%;
@@ -2568,7 +2569,8 @@
 					}
 
 						#header > nav ul li a.active {
-							background: #fff;
+							background: rgb(255, 255, 255);
+							background: rgba(255, 255, 255, 0.7);
 							color: #4acaa8 !important;
 						}
 
