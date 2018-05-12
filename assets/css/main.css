@@ -2570,7 +2570,7 @@
 
 						#header > nav ul li a.active {
 							background: rgb(255, 255, 255);
-							background: rgba(255, 255, 255, 0.7);
+							background: rgba(255, 255, 255, 0.5);
 							color: #4acaa8 !important;
 						}
 
